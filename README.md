@@ -22,6 +22,7 @@ Function Requirements:
 2. Data Processing: Convert JSON data into a MATLAB-friendly format for further processing and visualization.
    
 ***Updating Graphs and Displaying Data***
+
 The app should dynamically update its graphs based on the selected city, displaying relevant weather data.
 
 1. Graph Update: Each time a city is selected, update the three graphs (temperature, humidity, wind speed) with new data.
