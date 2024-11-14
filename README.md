@@ -14,6 +14,7 @@ MATLAB App Designer application that visualizes real-time and 5-day weather fore
 MATLAB App Designer will serve as the platform to design the user interface for selecting cities and displaying weather data.
 
 ***Writing Core Data Retrieval Function: fetchFiveDayForecast***
+
 This function will handle API requests to OpenWeatherMap and retrieve city-specific weather data.
 
 Function Requirements:
